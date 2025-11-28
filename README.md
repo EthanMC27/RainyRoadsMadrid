@@ -20,8 +20,8 @@ Demostrar cómo la lluvia afecta la seguridad vial y proporcionar una herramient
 5. Creación de un dashboard en Power BI para visualizar los resultados.
 
 ## Cómo ejecutar / reproducir
-- Abrir el archivo `dashboard/dashboard_rain_traffic.pbix` en Power BI Desktop.
-- Si se usan notebooks, abrir `notebooks/` con Jupyter o Google Colab.
+- Abrir el archivo .pbix en Power BI Desktop.
+- Abrir `notebooks/` con Jupyter o Google Colab.
 
 ## Límites y ética
 - Solo se usan datos públicos y anonimizados.
